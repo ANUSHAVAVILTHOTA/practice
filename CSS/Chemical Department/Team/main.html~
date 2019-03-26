@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+<head>
+        <title>CHEMICAL</title>
+        <body background=m.jpg>
+        <style type="text/css"media="screen"></style>      
+</head>
+<boady>
+<header>
+        <hgroup>
+       <h1><font color="red"><marquee><i>WELCOME TO CHEMICAL  ENGINEERING DEPARTMENT</i></marquee></font></h1>
+        </hgroup>
+</header>
+<section>
+                
+                <article>
+                        <h3><center><i><font color="black">HOD OF THE DEPARTMENT IS RAMASUBBAIH GARU</font></center></i></h3>
+                        <nav>
+                        <ul>
+                        <li><a href="2.html"><b><i><font color="green">DEPARTMENT FACULTY</font></i></b></a><li> 
+                        <ul>
+                        </nav>                      
+                </article>
+                
+                <article>
+          
+                        <nav>
+                        <ul>
+                        <li><a href="4.html"><b><i><font color="green">LABS</font></i></b></a><li>  
+                        <ul>
+                        </nav>                      
+                </article>
+				 
+                <article>
+          
+                        <nav>
+                        <ul>
+                        <li><a href="7.html"><b><i><font color="green">RESEARCH EQUIPMENTS</font></i></b></a><li> 
+                        <ul>
+                        </nav>                      
+                </article>
+                
+</section>
+<footer>
+      
+</footer>
+</boady>
+</html>
